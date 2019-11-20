@@ -1,0 +1,9 @@
+D:\大學\三上\視窗程式設計\Practice6\Practice6-1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\大學\三上\視窗程式設計\Practice6\Practice6-1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\大學\三上\視窗程式設計\Practice6\Practice6-1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\大學\三上\視窗程式設計\Practice6\Practice6-1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\大學\三上\視窗程式設計\Practice6\Practice6-1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\大學\三上\視窗程式設計\Practice6\Practice6-1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\大學\三上\視窗程式設計\Practice6\Practice6-1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\大學\三上\視窗程式設計\Practice6\Practice6-1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\大學\三上\視窗程式設計\Practice6\Practice6-1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
